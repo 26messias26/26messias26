@@ -1,11 +1,9 @@
 # Hi there 👋 I'm Messias Souza
 ### Front-end Develop
 
-Sou apaixonado pela arte do desenvolvimento. Altualmente cursando Sistemas Para Internet.
+I am passionate about the art of development. Currently studying Internet Systems.
 
-### Linguagens e Tecnoligias
-
-
+### Languages and Technologies
 
 <div>
   <img width='64px' alt='JavaScript' src='https://github.com/26messias26/26messias26/blob/main/icon/js.png'>
