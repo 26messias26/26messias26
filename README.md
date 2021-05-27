@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there 👋 I'm Messias Souza
+### Front-end Develop
 
-<!--
-**26messias26/26messias26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou apaixonado pela arte do desenvolvimento. Altualmente cursando Sistemas Para Internet.
 
-Here are some ideas to get you started:
+### Linguagens e Tecnoligias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<div>
+  <img width='64px' alt='JavaScript' src='https://github.com/26messias26/26messias26/blob/main/icon/js.png'>
+  <img width='57px' alt='JavaScript' src='https://github.com/26messias26/26messias26/blob/main/icon/python.png'>
+  <img width='64px' alt='Node' src='https://github.com/26messias26/26messias26/blob/main/icon/node.png'>
+  <img width='64px' alt='React' src='https://github.com/26messias26/26messias26/blob/main/icon/react.png'>
+  <img width='64px' alt='Bootstrap' src='https://github.com/26messias26/26messias26/blob/main/icon/Bootstrap.png'>
+</div>
+
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=26messias26&count_private=false&show_icons=true&theme=algolia&&include_all_commits=true"/>
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=26messias26&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
