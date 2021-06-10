@@ -7,17 +7,27 @@
 
 I am passionate about the art of development. Currently studying Internet Systems.
 
-### Languages and Technologies
+### Languages and Technologies under study
 
 <div>
   <img width='64px' alt='JavaScript' src='https://github.com/26messias26/26messias26/blob/main/icon/js.png'>
-  <img width='64px' alt='JavaScript' src='https://github.com/26messias26/26messias26/blob/main/icon/python.png'>
+  <img width='64px' alt='Python' src='https://github.com/26messias26/26messias26/blob/main/icon/python.png'>
   <img width='64px' alt='Node' src='https://github.com/26messias26/26messias26/blob/main/icon/node.png'>
   <img width='64px' alt='React' src='https://github.com/26messias26/26messias26/blob/main/icon/react.png'>
   <img width='64px' alt='Bootstrap' src='https://github.com/26messias26/26messias26/blob/main/icon/Bootstrap.png'>
+  <img width='64px' alt='nextjs' src='https://github.com/26messias26/26messias26/blob/main/icon/sqlserver.png'>
 </div>
 
 <br>
+
+### Future studies
+
+<div>
+<img width='64px' alt='Bootstrap' src='https://github.com/26messias26/26messias26/blob/main/icon/sass.png'>
+<img width='64px' alt='nextjs' src='https://github.com/26messias26/26messias26/blob/main/icon/nextjs.png'>
+<img width='64px' alt='mongodb' src='https://github.com/26messias26/26messias26/blob/main/icon/mongodb.png'>
+
+</div>
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=26messias26&count_private=false&show_icons=true&theme=algolia&&include_all_commits=true"/>
