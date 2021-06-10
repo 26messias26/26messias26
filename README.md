@@ -23,9 +23,10 @@ I am passionate about the art of development. Currently studying Internet System
 ### Future studies
 
 <div>
-<img width='64px' alt='Bootstrap' src='https://github.com/26messias26/26messias26/blob/main/icon/sass.png'>
-<img width='64px' alt='nextjs' src='https://github.com/26messias26/26messias26/blob/main/icon/nextjs.png'>
-<img width='64px' alt='mongodb' src='https://github.com/26messias26/26messias26/blob/main/icon/mongodb.png'>
+<img width='64px' alt='Bootstrap' src='https://github.com/26messias26/26messias26/blob/main/icon/sass.png'>⠀
+<img width='64px' alt='nextjs' src='https://github.com/26messias26/26messias26/blob/main/icon/nextjs.png'>⠀
+<img width='64px' alt='mongodb' src='https://github.com/26messias26/26messias26/blob/main/icon/mongodb.png'>⠀
+<img width='54px' alt='typescript' src='https://github.com/26messias26/26messias26/blob/main/icon/typescript.png'>
 
 </div>
 
