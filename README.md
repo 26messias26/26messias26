@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Messias Souza
-### Front-end Develop
+### Front-end Developer
 
 <a href='https://www.linkedin.com/in/26messias26'>
 <img width='32px' alt='linkedin' src='https://github.com/26messias26/26messias26/blob/main/icon/linkedin.png'>
