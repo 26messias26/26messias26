@@ -18,6 +18,8 @@ I am passionate about the art of development. Currently studying Internet System
   <img width='64px' alt='nextjs' src='https://github.com/26messias26/26messias26/blob/main/icon/sqlserver.png'>
   <img width='64px' alt='Bootstrap' src='https://github.com/26messias26/26messias26/blob/main/icon/sass.png'>⠀
   <img width='54px' alt='typescript' src='https://github.com/26messias26/26messias26/blob/main/icon/typescript.png'>
+  <img width='54px' alt='typescript' src='https://github.com/26messias26/26messias26/blob/main/icon/php-icon-png-7.png'>
+  <img width='54px' alt='typescript' src='https://github.com/26messias26/26messias26/blob/main/icon/kotlin.png'>
 </div>
 
 <br>
