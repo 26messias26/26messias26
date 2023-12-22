@@ -19,20 +19,10 @@ I am passionate about the art of development. Currently studying Internet System
   <img width='64px' alt='Bootstrap' src='https://github.com/26messias26/26messias26/blob/main/icon/sass.png'>⠀
   <img width='54px' alt='typescript' src='https://github.com/26messias26/26messias26/blob/main/icon/typescript.png'>
 <!--   <img width='54px' alt='typescript' src='https://github.com/26messias26/26messias26/blob/main/icon/php-icon-png-7.png'> -->
-  <img width='54px' alt='typescript' src='https://github.com/26messias26/26messias26/blob/main/icon/kotlin.png'>
+<!--   <img width='54px' alt='typescript' src='https://github.com/26messias26/26messias26/blob/main/icon/kotlin.png'> -->
 </div>
 
 <br>
-
-### Future studies
-
-<div>
-
-<img width='64px' alt='nextjs' src='https://github.com/26messias26/26messias26/blob/main/icon/nextjs.png'>⠀
-<img width='64px' alt='mongodb' src='https://github.com/26messias26/26messias26/blob/main/icon/mongodb.png'>⠀
-
-
-</div>
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=26messias26&count_private=false&show_icons=true&theme=algolia&&include_all_commits=true"/>
